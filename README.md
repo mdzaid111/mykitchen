@@ -2,9 +2,6 @@
 #MdZaid 
 
 ## **Previews**
-![1](previews/ss1.png)
-![2](previews/ss2.png)
-![3](previews/ss3.png)
 
 ---
 
